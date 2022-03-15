@@ -8,7 +8,16 @@
 <!-- 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **React,Data Structures and Algorithms**
+- 🌱Even though I have completed my bachelors in Electronics Engineering, it did not spark my interest. However, I was always interested in the field of technology. One day, I got the opportunity to work on some software design . During this time, I developed an interest in coding and web development.
+
+To learn more about the field of web development, I decided to enroll in a professional course. I began researching, and came across Masai school. After I learned about their courses, I decided to enroll immediately.
+
+Currently, I am an aspiring full stack web developer, with a specialization in MERN stack. However, as I have successfully completed numerous projects in Masai school, I have gained expertise in HTML, CSS, and JavaScript.
+
+
+
+Feel free to reach out to me at:aniketchimurkar3006@gmail.com
+
 <!-- 
 - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
